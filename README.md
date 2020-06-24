@@ -21,7 +21,7 @@ Para agregar un valor a un diccionario es necesario asociarlo con una clave, la 
 
 #### **Beneficios de usar una biblioteca, por que pondria una clase en una biblioteca y cuando agregaria directamente la clase en su proyecto**
 
-_Usar una biblioteca de clases resulta beneficioso ya que se puede reutilizar el codigo que hay en ella en varios proyectos. Colocaria una clase en una biblioteca por ejemplo si en dos proyectos distintos, necesitaria cargar datos de un usuario y si necesito hacer uso de una clase que solo sirva para un proyecto especifico entonces agregaria la clase solo a ese proyecto.
+_Usar una biblioteca de clases resulta beneficioso ya que se puede reutilizar el codigo que hay en ella en varios proyectos. Colocaria una clase en una biblioteca por ejemplo si en dos proyectos distintos, necesitaria cargar datos de un usuario y si necesito hacer uso de una clase que solo sirva para un proyecto especifico entonces agregaria la clase solo a ese proyecto._
 
 
 #### **como se agrega la referencia a una biblioteca de clase en su proyecto**
