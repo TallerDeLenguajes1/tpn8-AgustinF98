@@ -5,10 +5,10 @@
   _Los objetos del tipo **List** basicamente son arreglos que generalmente es mas grande que el numero de elementos que posee. Si se define un objeto del tipo List con espacio
 para 10 elementos, una vez que se lleno, se crea otra lista pero con la consecuencia de que los elementos guardados en la anterior lista se pierden.
 el acceso a cada elemento es rapido, ya que se accede mediante indice, pero para eliminar o insertar elementos al inicio o en otro lugar de la lista menos al final, tiene un 
-costo de ejecucion lento, ahora si se quiere agregar o quitar un elemento al final de la lista, el costo de ejecucion es mucho mas rapido._
-  _Un objeto del tipo **LinkedList** es una lista doblemente enlazada. Cada nodo esta enlazado al nodo anterior y al siguiente, gracias a esto, se puede ingresar rapidamente
-un nuevo nodo al principio de la lista, al final de la lista o antes o despues de un nodo en particular. El acceso a un elemento de la lista por el indice es lento._
-  _Otra diferencia es que un objeto del tipo LinkedList necesita mas memoria que un objeto del tipo List, debido a que necesita espacio para todas las referencias
+costo de ejecucion lento, ahora si se quiere agregar o quitar un elemento al final de la lista, el costo de ejecucion es mucho mas rapido.
+  Un objeto del tipo **LinkedList** es una lista doblemente enlazada. Cada nodo esta enlazado al nodo anterior y al siguiente, gracias a esto, se puede ingresar rapidamente
+un nuevo nodo al principio de la lista, al final de la lista o antes o despues de un nodo en particular. El acceso a un elemento de la lista por el indice es lento.
+  Otra diferencia es que un objeto del tipo LinkedList necesita mas memoria que un objeto del tipo List, debido a que necesita espacio para todas las referencias
 anteriores/siguientes. Por otro lado, un objeto del tipo List puede tener un arreglo de respaldo que es mucho mas grande que sus necesidades actuales._
 
 
