@@ -28,4 +28,4 @@ Para agregar un valor a un diccionario es necesario asociarlo con una clave, la 
 
   _Para agregar la referencia a una biblioteca de clase a un proyecto, hay que seleccionar el proyecto deseado, en **dependencies** hacer click derecho y seleccionar 
 la opcion **Add Proyect Reference...**, se abrira el **Reference Manager** y seleccionar la clase que se necesite usar en el proyecto, y por ultimo hay que agregar al principio
-del codigo la siguiente linea **"using 'NombreDeLaClase';"**_
+del codigo la siguiente linea **" using 'NombreDeLaClase'; "**_
