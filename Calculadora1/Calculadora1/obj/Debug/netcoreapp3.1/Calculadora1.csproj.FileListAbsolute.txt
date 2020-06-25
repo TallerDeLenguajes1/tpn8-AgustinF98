@@ -1,0 +1,15 @@
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.csprojAssemblyReference.cache
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.csproj.GenerateResource.cache
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.AssemblyInfoInputs.cache
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.AssemblyInfo.cs
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.csproj.CoreCompileInputs.cache
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.exe
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.deps.json
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.runtimeconfig.json
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.runtimeconfig.dev.json
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.dll
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\bin\Debug\netcoreapp3.1\Calculadora1.pdb
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.dll
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.pdb
+C:\Repogit\tp8\tpn8-AgustinF98\Calculadora1\Calculadora1\obj\Debug\netcoreapp3.1\Calculadora1.genruntimeconfig.cache
